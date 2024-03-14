@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": true,
+      "item": "AI"
+    },
+    {
+      "id": "3",
+      "checked": true,
+      "item": "Automation"
+    },
+    {
+      "id": "5",
+      "checked": true,
+      "item": "addd"
+    },
+    {
+      "id": "6",
+      "checked": true,
+      "item": "dhhhhhh"
+    },
+    {
+      "id": "7",
+      "checked": true,
+      "item": "c"
+    },
+    {
+      "id": "9",
+      "checked": true,
+      "item": "cd"
+    }
+  ]
+}
